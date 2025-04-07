@@ -34,6 +34,7 @@ Dự án đồ án thiết kế luận lý của nhóm thực hiện tại Trư�
   - Nâng cao bảo mật với thuật toán mã hóa (AES, SHA) và xác thực hai yếu tố.
   - Kết nối IoT để điều khiển từ xa và gửi cảnh báo qua thiết bị di động.
 ## Demo
-[![Xem Video Demo](assets/demo.png)](Arty_Z7_Electronic_Lock\assets\6127395606301.mp4)
+[![Xem Video Demo1](assets/demo.png)](Arty_Z7_Electronic_Lock/assets/6127395606301.mp4)
+[![Xem Video Demo2](assets/demo.png)](Arty_Z7_Electronic_Lock/assets/6127394678537.mp4)
 ## Liên Hệ
 Nếu có thắc mắc hoặc góp ý, vui lòng liên hệ với nhóm thực hiện.
